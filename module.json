@@ -63,7 +63,7 @@
 	],
 	"socket": true,
 	"url": "https://github.com/KayelGee/token-attacher",
-  "manifest": "https://raw.githubusercontent.com/KayelGee/token-attacher/master/module.json",
+  "manifest": "https://raw.githubusercontent.com/Zanges/token-attacher/refs/heads/update-v13/module.json",
   "download": "https://github.com/KayelGee/token-attacher/releases/latest/download/token-attacher.zip",
   "readme": "https://raw.githubusercontent.com/KayelGee/token-attacher/master/README.md"
 }
